@@ -86,7 +86,9 @@ function createCard(obj) {
              </li>
              </ul>
              <div class="card-body">
-             <button class="btn btn-danger" onclick="(getId(${id}))">Delete</button>
+             <button class="btn btn-danger"
+             onclick="(getId(${id}))">Delete
+             </button>
          </div>
          </div>
        </div>
